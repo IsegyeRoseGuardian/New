@@ -1,0 +1,21 @@
+#list{
+    width: 45%;
+    height: auto;
+    border: 2px;
+    margin-top:5%;
+    margin-bottom: auto;
+    border-style: solid;
+    border-color: blueviolet;
+    float: left;
+}
+
+#profile{
+    width: 45%;
+    height: auto;
+    border: 2px;
+    margin-top:7%;
+    margin-bottom: auto;
+    border-style: solid;
+    border-color: yellow;
+    float: right;
+}
